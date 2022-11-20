@@ -1,0 +1,17 @@
+{
+    "BetterSearchPage": true,
+    "SpellCheck": false,
+    "TypingUsersAvatars": true,
+    "SplitLargeMessages": true,
+    "BetterVolume": false,
+    "ReadAllNotificationsButton": true,
+    "CallTimeCounter": false,
+    "GameActivityToggle": true,
+    "ZeresPluginLibrary": true,
+    "BDFDB": true,
+    "CollapsibleUI": false,
+    "UserVolumeBooster": false,
+    "EmoteReplacer": false,
+    "NoReplyMention": true,
+    "ImageUtilities": true
+}
